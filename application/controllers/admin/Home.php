@@ -9,7 +9,6 @@ class Home extends MY_Controller {
     {
         parent::__construct();
     }
-
     // --------------------------------------------------------------------
 
     /**
