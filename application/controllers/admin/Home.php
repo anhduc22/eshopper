@@ -42,6 +42,10 @@ class Home extends MY_Controller {
     public function test() {
         echo 'abcd';
     }
+    
+    public function test2() {
+        echo 'đây là test 2';
+    }
 
 
 }
