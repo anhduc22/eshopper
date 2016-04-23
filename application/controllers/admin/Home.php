@@ -39,5 +39,9 @@ class Home extends MY_Controller {
         echo $this->input->user_agent();
     }
 
+    public function test() {
+        echo 'abcd';
+    }
+
 
 }
